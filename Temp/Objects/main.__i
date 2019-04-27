@@ -1,6 +1,0 @@
--c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections
--IC:\Users\22\Desktop\ST\Temp\RTE
--IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
--IC:\Keil_v5\ARM\CMSIS\Include
--D__UVISION_VERSION="521" -DSTM32F10X_HD
--o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d "main.c"
